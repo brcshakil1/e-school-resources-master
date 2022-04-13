@@ -28,3 +28,13 @@ p{
 .half-width{
     width: 500px;
 }
+button{
+    border: none;
+    border-radius: 25px;
+    padding: 8px 30px;
+    background-color: #21b573;
+    color: white;
+}
+.btn-success{
+    padding: 50px; 
+}
