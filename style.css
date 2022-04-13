@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .banner-bg{
     background-color: #F0FFF0;
     
@@ -8,4 +11,20 @@
 }
 .nav-item{
     font-size: 25px;
+   
+}
+.nav-link{
+    margin-left: 20px;
+}
+.text-org{
+    color: orange;
+}
+.text-grn{
+    color:#21b573;
+}
+p{
+    color: gray;
+}
+.half-width{
+    width: 500px;
 }
